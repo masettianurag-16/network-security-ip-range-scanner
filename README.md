@@ -285,6 +285,8 @@ python -m unittest discover -s tests -p "test_*.py" -v
 ### 3. Scan Results & Summary Metrics
 <img width="1883" height="945" alt="image" src="https://github.com/user-attachments/assets/011c336f-3947-4659-88bf-cbc3ffdd7219" />
 <img width="1878" height="887" alt="image" src="https://github.com/user-attachments/assets/66317e07-c0ba-43f5-906e-8aaf7b1fb6a5" />
+<img width="1860" height="920" alt="image" src="https://github.com/user-attachments/assets/aa2f727c-126e-47e3-b9e0-07e82dbeada9" />
+
 
 ---
 
