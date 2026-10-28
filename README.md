@@ -273,16 +273,18 @@ python -m unittest discover -s tests -p "test_*.py" -v
 > *Below are UI representations of the application. Replace the placeholders with actual screenshots from your lab environment when showcasing on GitHub.*
 
 ### 1. Main Dashboard & Configuration
-![Dashboard Interface](docs/screenshots/dashboard.png)
-*Figure 1: Main interface displaying the responsible-use notice, loopback guidance, and IP range configuration.*
+<img width="1877" height="952" alt="image" src="https://github.com/user-attachments/assets/2ddd221a-2bd3-4004-a071-bed887279676" />
+<img width="1883" height="947" alt="image" src="https://github.com/user-attachments/assets/9c1d983d-46a4-458e-a8e0-d847ce7da34d" />
+<img width="1881" height="925" alt="image" src="https://github.com/user-attachments/assets/8c7c6a1e-1bb3-49af-a866-e2b46734c80d" />
+
 
 ### 2. Live Scan in Progress
-![Scan in Progress](docs/screenshots/scan_progress.png)
-*Figure 2: Real-time progress bar and live host discovery streaming via Server-Sent Events.*
+<img width="1885" height="953" alt="image" src="https://github.com/user-attachments/assets/ee403658-db70-4bca-af64-410760578189" />
+
 
 ### 3. Scan Results & Summary Metrics
-![Completed Scan Results](docs/screenshots/results_summary.png)
-*Figure 3: Discovery results table with status badges (`ACTIVE`, `NO RESPONSE`), latency measurements, and metric cards.*
+<img width="1883" height="945" alt="image" src="https://github.com/user-attachments/assets/011c336f-3947-4659-88bf-cbc3ffdd7219" />
+<img width="1878" height="887" alt="image" src="https://github.com/user-attachments/assets/66317e07-c0ba-43f5-906e-8aaf7b1fb6a5" />
 
 ---
 
